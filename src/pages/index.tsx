@@ -7,7 +7,7 @@ const Index: NextPage = () => {
       <div className='justify-center items-center flex middle text-center'>
         <div className='lg:grid lg:text-center lg:relative text-center'>
           <img
-            className='rounded-full mx-auto'
+            className='rounded-full mx-auto ring-8 mb-4 ring-white dark:border-gray-600'
             src='https://cdn.discordapp.com/avatars/609269728455688193/5c7b47cee8ebaac9304ef4d622b98e20.jpeg?size=256'
             alt='Profile Picture'
             draggable='false'
